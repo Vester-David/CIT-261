@@ -1,0 +1,1 @@
+Topic 1 submissions cover Loops, Conditional Statements, Functions, Varialbes, Parameters, Arrays, and Associative Arrays
